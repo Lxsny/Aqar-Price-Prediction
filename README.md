@@ -24,7 +24,7 @@ The model demonstrated strong performance in predicting property prices:
 - **Testing R² Score:** 0.82+
 - **Model Insight:** Error distribution analysis showed balanced residuals, indicating the model generalizes well and captures realistic pricing patterns.
 
-## 👥 Team Members
+## 👥 Team Penta's Members
 - **Abdullah bin Maneea [ Leader ]**
 - **Abdullah AlOud**
 - **Faris Abuthnain**
